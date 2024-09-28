@@ -1,4 +1,4 @@
-# JWT
+# JSON Web Token (JWT)
 
 A simple JSON Web Token (JWT) library for Deno and Node.js, partially compliant with
 the [JWT specification](https://datatracker.ietf.org/doc/html/rfc7519).
